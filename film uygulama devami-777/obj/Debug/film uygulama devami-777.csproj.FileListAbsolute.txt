@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\bin\Debug\film uygulama devami-777.exe.config
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\bin\Debug\film uygulama devami-777.exe
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\bin\Debug\film uygulama devami-777.pdb
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\obj\Debug\film uygulama devami-777.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\obj\Debug\film uygulama devami-777.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\obj\Debug\film_uygulama_devami_777.Form1.resources
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\obj\Debug\film_uygulama_devami_777.Properties.Resources.resources
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\obj\Debug\film_uygulama_devami_777.YeniFilmForm.resources
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\obj\Debug\film uygulama devami-777.csproj.GenerateResource.cache
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\obj\Debug\film uygulama devami-777.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\obj\Debug\film uygulama devami-777.csproj.CopyComplete
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\obj\Debug\film uygulama devami-777.exe
+C:\Users\User\source\repos\film uygulama devami-777\film uygulama devami-777\obj\Debug\film uygulama devami-777.pdb
